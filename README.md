@@ -11,7 +11,7 @@ A small browser app that calculates a tip and the total bill from a bill amount 
 
 ## Run locally
 
-Open `index.html` in your browser, or open the folder in VS Code and choose **Open with Live Server** on `index.html`.
+Open `index.html` in your browser.
 
 No dependencies, build step, or backend are required.
 
