@@ -2,6 +2,10 @@
 
 A small browser app that calculates a tip and the total bill from a bill amount and tip percentage. Built while learning HTML, CSS, and JavaScript.
 
+## Live demo
+
+[Try the tip calculator](https://dannyevers83.github.io/tip-calculator/).
+
 ## Features
 
 - Enter a bill amount and a whole-number tip percentage.
