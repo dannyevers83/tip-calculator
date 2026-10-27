@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 440px;
+  margin: 48px auto;
+  padding: 24px;
+  background-color: #f4f4f5;
+  color: #18181b;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+  display: grid;
+  gap: 12px;
+}
+
+input,
+button {
+  padding: 12px;
+  border: 1px solid #a1a1aa;
+  border-radius: 8px;
+  font: inherit;
+}
+
+button {
+  background-color: #d4d4d8;
+  color: #18181b;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #bfbfc6;
+}
+
+#result {
+  padding: 24px;
+  font-size: 1.25rem;
+  line-height: 1.7;
+  background-color: #e4e4e7;
+  border-radius: 8px;
+}
+
+#result:empty {
+  display: none;
+}
